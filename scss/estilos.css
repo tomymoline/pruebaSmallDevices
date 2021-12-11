@@ -166,7 +166,8 @@ footer {
           align-items: center;
   height: 12vh;
   width: 100vw;
-  background-color: black;
+  background-color: #252525;
+  border-top: 1px solid white;
 }
 
 .menu {
